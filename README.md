@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm James Graugnard</h1>
-<h3 align="center">data analyst for music, sports and the dewey decimal system</h3>
+<h3 align="center">Data analyst for music, sports and the dewey decimal system</h3>
 
 - 🔭 I’m currently working on **WHO IS BETTER?: a review of two random NBA players**
 
