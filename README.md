@@ -1,15 +1,13 @@
 <h1 align="center">Hello, I'm James Graugnard</h1>
 <h3 align="center">Data analyst for music, sports and the dewey decimal system</h3>
 
-- 🔭 I’m currently working on **WHO IS BETTER?: a review of two random NBA players**
-
 - 🌱 I’m currently learning **SQL, Tableau, R, and Python!**
 
 - 👨‍💻 All of my projects are available at [https://github.com/JD4TW23](https://github.com/JD4TW23)
 
 - 📝 I regularly write articles on [https://substack.com/@ctrlaltf12](https://substack.com/@ctrlaltf12)
 
-- 💬 Ask me about **anything! Always down for good conversations.**
+- 💬 Ask me about **How good Boris Diaw was in the 2014 NBA Finals versus the Miami Heat**
 
 - 📫 How to reach me **jamesgraugnard1925@outlook.com**
 
